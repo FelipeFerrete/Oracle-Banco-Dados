@@ -132,6 +132,6 @@ Este modelo foi desenvolvido para ser utilizado em um sistema de gestão de clie
 2. Execute os scripts SQL no seu banco de dados Oracle.
 3. Importe ou insira os dados conforme necessário para testar o modelo.
 
-## Licença
+## Autor
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+**FelipeFerrete
