@@ -133,5 +133,4 @@ Este modelo foi desenvolvido para ser utilizado em um sistema de gestão de clie
 3. Importe ou insira os dados conforme necessário para testar o modelo.
 
 ## Autor
-
-**FelipeFerrete
+Felipe Ferrete
