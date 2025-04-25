@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Oracle_Banco_Dados" id="AE056AB5-1EA3-AA9A-003B-405ADAFF79FA" version="3.5">
+<createdBy>dell</createdBy>
+<createdTime>2025-04-23 10:29:51 UTC</createdTime>
+<ownerDesignName>gabarito_cp02</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>AE056AB5-1EA3-AA9A-003B-405ADAFF79FA</designId>
+</OSDM_Design>
